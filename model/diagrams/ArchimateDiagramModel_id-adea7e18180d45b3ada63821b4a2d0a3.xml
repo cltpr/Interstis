@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for WAPT"
+    id="id-adea7e18180d45b3ada63821b4a2d0a3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-442eed23aa574e71b1cf0a71a685e6f1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c6cded3c032f4d4bbc559bac8207e7d9"
+        source="id-442eed23aa574e71b1cf0a71a685e6f1"
+        target="id-1abc6434541643fdaea6a82aca517729">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-842faf5791a74b898b80f6903c8ba26a.xml#id-842faf5791a74b898b80f6903c8ba26a"/>
+    </sourceConnections>
+    <bounds
+        x="132"
+        y="240"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-3789e14e01a044919ae2d067ab3b934d.xml#id-3789e14e01a044919ae2d067ab3b934d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1abc6434541643fdaea6a82aca517729"
+      targetConnections="id-c6cded3c032f4d4bbc559bac8207e7d9">
+    <bounds
+        x="348"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_id-c02cae9cfd784a82b3d339cf9ebade96.xml#id-c02cae9cfd784a82b3d339cf9ebade96"/>
+  </children>
+</archimate:ArchimateDiagramModel>

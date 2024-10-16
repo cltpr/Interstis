@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stockage"
+    id="id-6eff252870ba42a99904dee52923c9a7">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-14703772a21348daa9665be64b30dedc.xml#id-14703772a21348daa9665be64b30dedc"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-8d1c4b96999a44aea188ffc6e19b7d01.xml#id-8d1c4b96999a44aea188ffc6e19b7d01"/>
+</archimate:AssociationRelationship>

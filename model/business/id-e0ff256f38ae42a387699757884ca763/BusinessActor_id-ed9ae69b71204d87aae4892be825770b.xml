@@ -1,0 +1,26 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prestataire GINOV"
+    id="id-ed9ae69b71204d87aae4892be825770b"
+    documentation="Développement externalisé">
+  <properties
+      key="Type d'entité"
+      value="Prestataire"/>
+  <properties
+      key="Niveau de sécurité"
+      value="Niveau 1 - Initial - Sécurité de base"/>
+  <properties
+      key="Point de contact SSI"
+      value="Gilles ...."/>
+  <properties
+      key="Lien contractuel"
+      value="Contrat de service signé"/>
+  <properties
+      key="Niveau d'importance fonctionnelle "
+      value="Niveau 2 - Relation importante mais pas critique"/>
+  <properties
+      key="Point de contact développer"
+      value="Fortuné..."/>
+  <properties
+      key="Moyen de contact"/>
+</archimate:BusinessActor>

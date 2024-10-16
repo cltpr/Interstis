@@ -1,0 +1,13 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Développer"
+    id="id-789a50ff05d4499696e9d328567802bf">
+  <properties
+      key="Disponibilité"/>
+  <properties
+      key="Intégrité"/>
+  <properties
+      key="Confidentialité"/>
+  <properties
+      key="Traçabilité"/>
+</archimate:BusinessFunction>

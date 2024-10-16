@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for BDD-STZ-Master"
+    id="id-5459eb5c50e948b9b641c310812cab21">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-67a331ef262f4a9a8301045b2707faf7">
+    <bounds
+        x="300"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-90df66bd8b5a46f39188e255ea403e90.xml#id-90df66bd8b5a46f39188e255ea403e90"/>
+  </children>
+</archimate:ArchimateDiagramModel>
