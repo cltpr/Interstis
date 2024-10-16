@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Développement"
+    id="id-0a7e3b02177249d0a031bb5ee3164795"
+    documentation="Développement du produit, incluant les tests des développeurs.&#xD;&#xA;User story">
+  <properties
+      key="Elements entrants"
+      value="User story"/>
+  <properties
+      key="Elements sortants"
+      value="Code"/>
+</archimate:BusinessProcess>

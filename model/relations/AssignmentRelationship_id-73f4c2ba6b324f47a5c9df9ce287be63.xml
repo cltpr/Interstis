@@ -1,0 +1,19 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-73f4c2ba6b324f47a5c9df9ce287be63">
+  <properties
+      key="Nom"/>
+  <properties
+      key="Contact"/>
+  <properties
+      key="Nature"/>
+  <properties
+      key="Type"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-ed9ae69b71204d87aae4892be825770b.xml#id-ed9ae69b71204d87aae4892be825770b"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-789a50ff05d4499696e9d328567802bf.xml#id-789a50ff05d4499696e9d328567802bf"/>
+</archimate:AssignmentRelationship>

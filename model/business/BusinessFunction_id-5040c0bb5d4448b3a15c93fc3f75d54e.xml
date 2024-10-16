@@ -1,0 +1,13 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Code review"
+    id="id-5040c0bb5d4448b3a15c93fc3f75d54e">
+  <properties
+      key="Confidentialité"/>
+  <properties
+      key="Disponibilité"/>
+  <properties
+      key="Intégrité"/>
+  <properties
+      key="Traçabilité"/>
+</archimate:BusinessFunction>

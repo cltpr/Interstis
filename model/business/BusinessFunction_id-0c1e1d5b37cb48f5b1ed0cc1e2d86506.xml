@@ -1,0 +1,13 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consolidation de la release"
+    id="id-0c1e1d5b37cb48f5b1ed0cc1e2d86506">
+  <properties
+      key="Confidentialité"/>
+  <properties
+      key="Disponibilité"/>
+  <properties
+      key="Intégrité"/>
+  <properties
+      key="Traçabilité"/>
+</archimate:BusinessFunction>
